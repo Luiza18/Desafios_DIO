@@ -1,2 +1,6 @@
 # Desafios_DIO
-Desafios propostos pela plataforma Digital innovation one 
+
+<meta charset="utf-8">
+
+<h2>Olá, &#x1F44B;
+<br>postarei aqui os desafios propostos pela plataformar Digital Innovation one </h2>
