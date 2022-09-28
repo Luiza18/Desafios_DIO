@@ -3,4 +3,4 @@
 <meta charset="utf-8">
 
 <h2>Olá, &#x1F44B;
-<br>postarei aqui os desafios propostos pela plataformar Digital Innovation one </h2>
+<br>postarei aqui os desafios propostos pela plataforma Digital Innovation one </h2>
