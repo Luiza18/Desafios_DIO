@@ -5,7 +5,7 @@
 <h2>Olá, &#x1F44B; postarei aqui os desafios propostos pela plataforma Digital Innovation one </h2>
 <br>
 
-No momento realizaei/estou realizando os seguintes bootcamps: 
+No momento realizei/estou realizando os seguintes bootcamps: 
 <ul type = "disc">
   <li> Bootcamp Linux Experince 
   <li> Bootcamp C# 
