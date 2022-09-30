@@ -12,5 +12,5 @@ No momento realizei/estou realizando os seguintes bootcamps:
 <ul/>
 <h2>Segue abaixo o link do meu perfil na plataforma </h2>
 
-<a href = "https://web.dio.me/users/lulubaroal18?tab=achievements"> <img src = "https://imgs.search.brave.com/MQ24J9LNtBf-GT00ckuWSjTrsNA1vgveVJ1cRKFg8A0/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4y/ZFMxRmpJT3ZlZ29a/NXh2UGtxRHJRSGFE/NCZwaWQ9QXBp">
+<a href = "https://web.dio.me/users/lulubaroal18?tab=achievements"> <img src = "https://imgs.search.brave.com/dG7KQj0FugGa9q969LHaziwjabxa7jtaZu4UQadRp74/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzMS5naXRodWJ1/c2VyY29udGVudC5j/b20vdS8yNjIzMTgy/Mz9zPTI4MCZ2PTQ">
 </a>
