@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0YeSLHcRknebL0nu9Tg9dMwg+YMnh+8Jr+9mQkk85gNh54FDht9caj9HC8hY+QbVbwqkvF2JKsNgcasJh3amw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauro\\Music\\Estudo C#\\Estudo C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
