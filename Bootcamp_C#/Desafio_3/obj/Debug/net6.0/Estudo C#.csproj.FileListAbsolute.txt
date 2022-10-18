@@ -1,0 +1,17 @@
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.csproj.AssemblyReference.cache
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.AssemblyInfoInputs.cache
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.AssemblyInfo.cs
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Estudo C#.exe
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Estudo C#.deps.json
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Estudo C#.runtimeconfig.json
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Estudo C#.dll
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Estudo C#.pdb
+C:\Users\mauro\Music\Estudo C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.csproj.CopyComplete
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.dll
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\refint\Estudo C#.dll
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.pdb
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\Estudo C#.genruntimeconfig.cache
+C:\Users\mauro\Music\Estudo C#\obj\Debug\net6.0\ref\Estudo C#.dll
